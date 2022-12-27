@@ -24,3 +24,9 @@
 ### Stats
 
 ![Les Stats GitHub de Anurag](https://github-readme-stats.vercel.app/api?username=romzre&show_icons=true&theme=midnight-purple)
+
+### CurrentProject
+[![Carte ReadMe](https://github-readme-stats.vercel.app/api/pin/?username=romzre&repo=organe-finance)](https://github.com/romzre/organe-finance)
+
+## Top techno
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=romzre&layout=compact)](https://github.com/romzre/organe-finance)
